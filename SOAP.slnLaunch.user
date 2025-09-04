@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "SOAP.ServiceBD\\SOAP.ServiceBD.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
